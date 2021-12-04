@@ -1,0 +1,178 @@
+
+.navbar {
+    margin-bottom: 0;
+}
+
+#page {
+    border: 0;
+    font-family: inherit;
+    font-size: 100%;
+    font-weight:inherit;
+    margin:0;
+    outline:0;
+    padding:0;
+    vertical-align:baseline;
+}
+
+
+.navbar {
+    padding: 80px 400px 40px;
+}
+
+
+.card .card-body .card-title {
+    font-size: 25px;
+}
+
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .carousel-item {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+h5 , p {
+      text-align: center;
+  }
+.container {
+    padding: 40px;
+    margin-right:auto;
+    margin-left:auto;
+   
+}
+
+.container p.first  {
+    text-align:start;
+    font-weight: bold;
+    border-bottom: 1px solid #dfdfdf;
+    color: #aaa;
+    padding-bottom: 20px;
+}
+
+h3.middle {
+    font-size: 24px;
+    color: #000;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+h3.wg {
+    color: #fff;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+p.wg {
+    color: #fff;
+
+}
+
+
+.col-sm-4 {
+    width: 33.33333333333333%;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    }
+
+.fwidgets {
+    padding: 40px 0px;
+    background: #ed564b;
+    border-top: 5px solid #f96b61;
+    border-bottom: 5px solid #f96b61;
+    }
+
+    .card {
+    border:none;
+    padding:20px;
+}
+
+#navbarNavDropdown {
+    text-align:end;
+    padding:0 80px;
+    margin: 50px 0px 20px, 50px; 
+    }
+a.navbar-brand {
+    font-size:35px;
+    
+}
+a.nav-link {
+    color: #777;
+    
+}
+
+a.nav-link:hover {
+    color:red;
+}
+p.card-title {
+    font-weight:bold;
+    text-align:left;
+    font-size:15%;
+}
+p.posted, p.card-text-last {
+    text-align:left;
+    color: #606060;
+}
+#bottom {
+    padding: 20px 0px 40px 0px;
+    background: #3b3b3b;
+    border-top: 5px solid #ed564b;
+}
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.botwid {
+    color: #aaa;
+}
+.botwid p {
+    padding: 5px 0px;
+    margin: 0;
+    line-height: 150%;
+}
+.col-lg-3 {
+    width: 25%;
+}
+.col-6 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+h3.bothead {
+    font-size: 16px;
+    margin-bottom: 10px;
+    padding: 10px 0px;
+    color: #fff;
+}
+.textwidget p {
+    text-align: left;
+}
+.botwid ul {
+    text-align:left;
+    list-style-type: none;
+}
+
+.botwid ul li a:link {
+    text-decoration: none;
+    padding: 7px 0px 7px 0px;
+    display: block;
+    margin-left: -30px;
+    color: #aaa;
+}
+footer {
+    padding: 10px 0px;
+    background: #292929;
+    font-size: 12px;
+}
+.copy {
+    padding: 10px 0px;
+    color: #eee;
+}
